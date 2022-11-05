@@ -75,4 +75,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> b0f34f5 (Initialize project using Create React App)
 =======
 # dfkorea
+<<<<<<< HEAD
 >>>>>>> cc3aaf1 (first commit)
+=======
+# dfkorea
+>>>>>>> 7e169ee (first commit)
